@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6j0360/v1
+canonical_location: https://kanripo.org/bkk/KR6j0360/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說慈氏菩薩誓願陀羅尼經
+  identifiers:
+    alt_id:
+    - T20n1143
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1143.xml
+    old_id: T20n1143
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0360_000.yaml, hash: 'sha256:dc95c598ad986551cce1f363dfd43cf95f7eaf1a4cbb0cf312ca7a8616e45257'}
+  - {seq: 1, filename: KR6j0360_001.yaml, hash: 'sha256:d8ef3d9d92374a3399e83e6141cdcf33769081a1985e709377ee8ff509e9399d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0360_001.markers.yaml, hash: 'sha256:9e73e0f523f3d538f8050f0564b2c7262f8f7b2a6140577aef8f1e86e11ec9ac'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0360_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 351
+  label: 佛說慈氏菩薩誓願陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:29a06a7d4df01a00c70c73c0609a2f7c70a6a57471ae51bdc8ca1f4753d313cf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

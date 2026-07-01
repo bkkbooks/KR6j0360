@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6j0360/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉詔譯爾時佛告慈氏菩薩言汝當諦聽有陀羅尼具大威神最上功德能令眾生解脫惡趣轉身當得受勝妙樂時慈氏菩薩白言世尊願為宣說爾時世尊即說陀羅尼曰那謨引婆誐嚩帝引一舍引吉也二合母那曳引二怛他引誐多引野三阿囉曷二合帝引三藐訖三二合沒馱引野四怛𭔞他引五阿𡁠帝引六阿𡁠當惹曳引七婆囉婆囉八味怛囉二合嚩路吉帝引九哥囉哥囉十摩賀三摩野悉帝引十一婆囉婆囉十二地曼拏微𡁠引十三三摩二合囉三摩二合囉十四阿娑摩二合引剛三摩煬十五地地十六摩賀引地娑嚩二合引賀引十七爾時慈氏菩薩聞佛世尊說陀羅尼已白言世尊是陀羅尼有大利益能令眾生解脫惡趣時慈氏菩薩復發願言若有眾生於未來世末法之時能讀誦受持者設以宿業墮阿鼻獄者我成佛時當以佛力救拔出之復與授於阿耨多羅三藐三菩提記時慈氏菩薩說是語已禮佛雙足歡喜而退
+  hash: sha256:4b220ec230b3d1bb66e4e7bf4da8c3589239a77667116f3429ee64aecec84629
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說慈氏菩薩誓願陀羅尼經, id: KR6j0360_T_001-juan-start, juan_n: '001', jhead: 佛說慈氏菩薩誓願陀羅尼經}
+  - {type: 'cbeta:juan-end', offset: 351, content: 佛說慈氏菩薩誓願陀羅尼經, id: KR6j0360_T_001-juan-end, juan_n: '001', jhead: 佛說慈氏菩薩誓願陀羅尼經}
+metadata:
+  title: 佛說慈氏菩薩誓願陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1143.xml
+    old_id: T20n1143
+hash: sha256:0f833444a36bc54411b4b333763c1e7e4d753afe20fed9daac4ea8a7604cc3aa

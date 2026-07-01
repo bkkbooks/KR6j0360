@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0360/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說慈氏菩薩誓願陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1143.xml
+    old_id: T20n1143
+hash: sha256:dc95c598ad986551cce1f363dfd43cf95f7eaf1a4cbb0cf312ca7a8616e45257
