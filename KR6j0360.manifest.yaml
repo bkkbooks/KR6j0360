@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0360_000.yaml, hash: 'sha256:dc95c598ad986551cce1f363dfd43cf95f7eaf1a4cbb0cf312ca7a8616e45257'}
-  - {seq: 1, filename: KR6j0360_001.yaml, hash: 'sha256:d8ef3d9d92374a3399e83e6141cdcf33769081a1985e709377ee8ff509e9399d'}
+  - {seq: 1, filename: KR6j0360_001.yaml, hash: 'sha256:0f833444a36bc54411b4b333763c1e7e4d753afe20fed9daac4ea8a7604cc3aa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0360_001.markers.yaml, hash: 'sha256:9e73e0f523f3d538f8050f0564b2c7262f8f7b2a6140577aef8f1e86e11ec9ac'}
+  - {seq: 0, role: markers, filename: assets/KR6j0360_000.markers.yaml, hash: 'sha256:360e6bf00f4485e38381cf156c3e9b26b42a8273bd4158adcdd9e2f51e6dcb96'}
+  - {seq: 1, role: markers, filename: assets/KR6j0360_001.markers.yaml, hash: 'sha256:ba42b0798efb3eb7021dad2932d7f4ebc8ef323f654a366b10f780c0878630e3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說慈氏菩薩誓願陀羅尼經
   type: juan
   level: 1
-hash: sha256:29a06a7d4df01a00c70c73c0609a2f7c70a6a57471ae51bdc8ca1f4753d313cf
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bf9f68e30956f1e92669fd4aba5529879166513343987a2736a0bfafed6f1fd0
